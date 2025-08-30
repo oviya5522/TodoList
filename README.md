@@ -3,7 +3,7 @@
 This is a beautifully styled, user-friendly **To-Do List application** built with **React**, **Tailwind CSS**, and **React Icons**. It allows users to add, edit, delete, and mark tasks as completed — with all data saved in **localStorage** for persistence.
 
 **Live Demo**: [Click here to view the deployed project](https://todowithlove.netlify.app/)
-*(Best viewed on desktop/laptop screens)*
+*(works seamlessly on mobile & laptop))*
 
 ---
 
